@@ -26,7 +26,7 @@ Analysing and predicting customer churn dataset using a random forest classifica
 | Point Earned        | Points earned by the customer for using a credit card |
 
 
-## Methodoly
+## Methodology
 As previously mentioned, a random forest classification model was fitted to the data. 
   
 This was chosen due to the fact that the target variable was a binary categorical variable.
