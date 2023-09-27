@@ -1,5 +1,5 @@
 # Customer-Churn-Analysis
-Analysing and predicting customer churn dataset using a random forest classification model.
+Analysing and predicting customer churn rate using a random forest classification model.
 
 ## The Dataset
 - 10,000+ datapoints
